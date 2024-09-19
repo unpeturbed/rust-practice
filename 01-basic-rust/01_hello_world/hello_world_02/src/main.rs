@@ -1,5 +1,5 @@
 // Modify the program to take user input and print "Hello, [name]!".
-use std::io::{self};
+use std::io;
 fn main() {
     
     let mut name = String::new();
