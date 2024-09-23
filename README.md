@@ -148,16 +148,16 @@ This repo is divided into 3 types of folders.
 
 #### Hello, World! (0.5%)
 
-- [ ] Print "Hello, World!" to the console.
-- [ ] Modify the program to take user input and print "Hello, [name]!".
-- [ ] Create a program that prints a greeting based on the time of day.
-- [ ] Print a multi-line string using raw strings.
-- [ ] Format a string with multiple variables and print it.
-- [ ] Print a list of numbers from 1 to 10
-- [ ] Print the length of a given string.
-- [ ] Print the result of basic arithmetic operations.
-- [ ] Print a countdown from 10 to 1
-- [ ] Create a program that prints a quote using escape characters.
+- [x] Print "Hello, World!" to the console.
+- [x] Modify the program to take user input and print "Hello, [name]!".
+- [x] Create a program that prints a greeting based on the time of day.
+- [] Print a multi-line string using raw strings.
+- [x] Format a string with multiple variables and print it.
+- [x] Print a list of numbers from 1 to 10
+- [x] Print the length of a given string.
+- [x] Print the result of basic arithmetic operations.
+- [x] Print a countdown from 10 to 1
+- [x] Create a program that prints a quote using escape characters.
 
 #### Variables and Mutability (1.5%)
 
