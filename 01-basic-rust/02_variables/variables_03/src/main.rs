@@ -6,6 +6,6 @@ fn main() {
         println!("{}", number);
         number -= 1;
     }
-    println!("KABOOM!");
+    println!("KABOOOOM!");
 }
 
